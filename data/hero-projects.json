@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "BÁEZ",
+    "titleLines": ["BÁEZ", "WEB DESIGN."],
+    "category": "WEB DESIGN",
+    "description": "A fashion website design for Báez, built around bold editorial imagery.",
+    "imageUrl": "/assets/images/baez-web-design.png"
+  },
+  {
+    "id": "02",
+    "name": "BATHROOM INTERIOR",
+    "titleLines": ["BATHROOM", "INTERIOR 3D."],
+    "category": "3D INTERIOR DESIGN",
+    "description": "A modern bathroom visualized in 3D with warm wood, clean lines, and natural light.",
+    "imageUrl": "/assets/images/bathroom-3d-interior.jpg"
+  },
+  {
+    "id": "03",
+    "name": "MARKED",
+    "titleLines": ["MARKED", "CONTENT."],
+    "category": "CONTENT CREATION",
+    "description": "A bold fashion campaign visual built around the message “Mark the Moment.”",
+    "imageUrl": "/assets/images/marked-content-creation.png"
+  }
+]
